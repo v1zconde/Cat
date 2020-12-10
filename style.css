@@ -2,3 +2,27 @@ body{
     text-align: center;
     color: grey;
 }
+
+.breed h3{
+    text-transform: capitalize;
+}
+.breed p{
+    color: blue;
+
+}
+.metabolism h3{
+    text-transform: capitalize;
+}
+.metabolism p{
+    color: red;
+}
+
+.senses p{
+    color: chocolate;
+
+}
+
+.senses h3{
+    color: chocolate;
+
+}
